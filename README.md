@@ -1,4 +1,4 @@
-# Seed a Django database in three steps
+# Seed a Django relational database in three steps
 
 1. Import your model
 2. Change the instance at line 7 with the imported line
