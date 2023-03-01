@@ -17,7 +17,7 @@ Para executar o seed.py
 
 ATENÇÃO, EXECUTE UMA VEZ E COMENTE O CÓDIGO APÓS USO, POR SEGURANÇA
 
-- python manage.py seed
+- python manage.py
 - import seed
 '''
 
